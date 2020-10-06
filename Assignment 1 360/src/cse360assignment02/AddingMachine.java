@@ -1,13 +1,10 @@
-//William Andrew Spicher
-//CSE 360 Assignment 02
-
 package cse360assignment02;
 
 public class AddingMachine {
   private int total;
   
   public AddingMachine () {
-    total = 0;  // not nee ded - included for clarity
+    total = 0;  // not needed - included for clarity
   }
   
   public int getTotal () {
